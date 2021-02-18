@@ -1,0 +1,35 @@
+body{background-image: url(27.jpeg) ;
+}
+#h1{font-family: monospace;
+  text-align: center;
+  color: aqua;
+  
+}
+#h2{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color:honeydew;
+}
+#h3{
+  font-family: fantasy;
+    text-align: center;
+    color:blue;
+}
+#part1{
+  font-size: medium;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: green;
+  background-image: url(3.jpeg);
+}
+#part2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+    color: yellow;
+    background-image: url(27.jpeg)
+}
+#part3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: medium;
+    color: Red;
+    background-image: url(27.jpeg);
+}
